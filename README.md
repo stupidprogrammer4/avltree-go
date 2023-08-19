@@ -20,8 +20,8 @@ tree.Find(1) // it returns true/false value
 - Max and Min element in tree
 
 ```go 
-tree.Max() // it returns maximum element int tree
-tree.Min() // it returns maximum element int tree
+tree.Max() // it returns maximum element in tree
+tree.Min() // it returns maximum element in tree
 ```
 
 #### i build this simple proj to learn golang with practice 
